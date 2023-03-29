@@ -41,7 +41,7 @@
 - [Event-sourcing at Nordstrom: Part 2](https://medium.com/tech-at-nordstrom/event-sourcing-at-nordstrom-part-2-f64c416d1885)
 - [Live projections for read models with Event Sourcing and CQRS](https://www.eventstore.com/blog/live-projections-for-read-models-with-event-sourcing-and-cqrs)
 - [Event Streaming is not Event Sourcing!](https://event-driven.io/en/event_streaming_is_not_event_sourcing/)
-- [Overselling Event Sourcing](https://zimarev.com/blog/event-sourcing/myth-busting/2020-07-09-overselling-event-sourcing/)
+- [Overselling Event Sourcing](https://zimarev.com/blog/event-sourcing/myth-busting/2020-07-09-overselling-event-sourcing/) ⭐
 - [MICROSERVICES .NET CORE WITH EXAMPLE — Part 4](https://medium.com/@bingeek/microservices-net-core-with-example-part-4-d652e6f16796)
 - [MICROSERVICES .NET CORE WITH EXAMPLE — Part 5](https://medium.com/@bingeek/microservices-net-core-with-example-part-5-f3ae18d5edee)
 - [Why a bank account is not the best example of Event Sourcing?](https://event-driven.io/en/bank_account_event_sourcing/)
@@ -71,9 +71,11 @@
 - [How Event Sourcing makes for a better debugging experience for developers](https://www.eventstore.com/blog/how-event-sourcing-makes-for-a-better-debugging-experience-for-developers)
 - [Projections in Event Sourcing](https://zimarev.com/blog/event-sourcing/projections/)
 - [Entities as event streams](https://zimarev.com/blog/event-sourcing/entities-as-streams/#using-events-to-mutate-state)
-- [Event Sourcing basics](https://zimarev.com/blog/event-sourcing/introduction/)
-- [Reporting models and Event Sourcing](https://zimarev.com/blog/event-sourcing/changes-in-event-sourced-systems/)
-- [Event Sourcing and Microservices](https://zimarev.com/blog/event-sourcing/microservices/)
+- [Event Sourcing basics](https://zimarev.com/blog/event-sourcing/introduction/) ⭐
+- [Event Sourcing and CQRS](https://zimarev.com/blog/event-sourcing/cqrs/) ⭐
+- [Entities as event streams](https://zimarev.com/blog/event-sourcing/entities-as-streams/) ⭐
+- [Reporting models and Event Sourcing](https://zimarev.com/blog/event-sourcing/changes-in-event-sourced-systems/) ⭐
+- [Event Sourcing and Microservices](https://zimarev.com/blog/event-sourcing/microservices/) ⭐
 - [Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change?utm_campaign=GWP%20-%20event%20immutability&utm_content=168948136&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3011811)
 - [How to get the current entity state from events?](https://event-driven.io/en/how_to_get_the_current_entity_state_in_event_sourcing/)
 - [When not to use Event Sourcing?](https://event-driven.io/en/when_not_to_use_event_sourcing/)
@@ -99,8 +101,6 @@
 - [Dealing with Eventual Consistency and Idempotency in MongoDB projections](https://event-driven.io/en/dealing_with_eventual_consistency_and_idempotency_in_mongodb_projections/)
 - [Global event stream](https://zimarev.com/blog/event-sourcing/all-stream/)
 - [Live projections for read models with Event Sourcing and CQRS](https://www.eventstore.com/blog/live-projections-for-read-models-with-event-sourcing-and-cqrs)
-- [Event Sourcing and CQRS](https://zimarev.com/blog/event-sourcing/cqrs/)
-- [Entities as event streams](https://zimarev.com/blog/event-sourcing/entities-as-streams/)
 - [DDD, CQRS and Event Sourcing in .NET Core with Weapsy.Mediator](https://www.linkedin.com/pulse/ddd-cqrs-event-sourcing-net-core-weapsymediator-luca-briguglia/)
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 - [Event Sourcing: 5 things to consider when approaching it](https://www.davidguida.net/event-sourcing-things-to-consider)
@@ -148,6 +148,9 @@
 - [Event Sourcing Part I: Understanding what it is, core components, and common misconceptions](https://medium.com/ssense-tech/event-sourcing-part-i-understanding-what-it-is-core-components-and-common-misconceptions-5dec65f6d61)
 - [Event Sourcing Part II: Implementing an end-to-end solution](https://medium.com/ssense-tech/event-sourcing-part-ii-implementing-an-end-to-end-solution-68b7dbefe89)
 - [Guide to Projections and Read Models in Event Driven Architecture](https://event-driven.io/en/projections_and_read_models_in_event_driven_architecture/) ⭐
+- [Event-driven projections in Marten explained](https://event-driven.io/en/projections_in_marten_explained/)
+- [Projecting Marten events to Elasticsearch](https://event-driven.io/en/projecting_from_marten_to_elasticsearch/)
+
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -201,6 +204,8 @@
 - [The power of transient state in Event Sourcing](https://www.youtube.com/watch?v=XoWEQ_39Mcg)
 - [Let's build event store in one hour! - Oskar Dudycz - NDC Oslo 2022](https://www.youtube.com/watch?v=gaoZdtQSOTo)
 - [Event Sourcing in 1 Hour with Marten in .NET](https://www.youtube.com/watch?v=yWpuUHXLhYg)
+- [Event-driven revolution, from CRUD to Event Sourcing in practice - Oskar Dudycz - Devoxx For Ukraine](https://www.youtube.com/watch?v=V5_MMtfPpKs)
+- [How to model event-sourced systems efficiently - Oskar Dudycz - DDD Europe 2022](https://www.youtube.com/watch?v=gG6DGmYKk4I)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
